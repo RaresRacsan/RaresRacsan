@@ -1,4 +1,4 @@
-# 📊 GitHub Stats:
+# 📊 Rares Racsan's GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaresRacsan&theme=dark&hide_border=false" /><br/>
