@@ -8,8 +8,8 @@
 
 Here are some of the websites I've developed:
 
-- [Website 1](https://raresracsan.github.io/) - Portofolio
-- [Website 2]([https://example.com](https://rapidtype.github.io/))
+- [MyPortofolio](https://raresracsan.github.io/)
+- [RapidType](https://rapidtype.github.io/)
 
 ---
 
