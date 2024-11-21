@@ -5,3 +5,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RaresRacsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaresRacsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
+Here are some of the websites I've developed:
+
+- [Website 1](https://raresracsan.github.io/) - Portofolio
+- [Website 2]([https://example.com](https://rapidtype.github.io/))
+
+---
+
+Feel free to check out my repositories for more details on my work!
