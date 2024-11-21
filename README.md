@@ -9,8 +9,7 @@
 🌐 Here are some of the websites I've developed:
 
 - <a href="https://raresracsan.github.io/" target="_blank">MyPortofolio</a>
-- [MyPortofolio](https://raresracsan.github.io/)
-- [RapidType](https://rapidtype.github.io/)
+- <a href="https://rapidtype.github.io/" target="_blank">RapidType</a>
 
 ---
 
