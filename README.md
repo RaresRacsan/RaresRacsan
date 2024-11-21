@@ -7,8 +7,8 @@
 </div>
 
 🌐 Here are some of the websites I've developed:
-- [My Portfolio](https://raresracsan.github.io/){:target="_blank"}
-- [RapidType](https://rapidtype.github.io/){:target="_blank"}
+- [My Portfolio](https://raresracsan.github.io/)
+- [RapidType](https://rapidtype.github.io/)
 
 ---
 
