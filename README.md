@@ -21,4 +21,4 @@ Feel free to check out my repositories for more details on my work!
 ![](https://github-profile-trophy.vercel.app/?username=RaresRacsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![](https://visitcount.itsvg.in/api?id=RaresRacsan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RaresRacsan&icon=0&color=0)](https://visitcount.itsvg.in)
