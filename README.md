@@ -15,7 +15,7 @@
 
 ---
 
-Feel free to check out my repositories for more details on my work! :)
+Feel free to check out my repositories for more details on my work!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaresRacsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
