@@ -6,7 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaresRacsan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaresRacsan&bg_color=161b22&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaresRacsan&theme=react-dark&hide_border=true&area=true" alt="Code Activity Graph" />
+</div>
+
 ---
 
 🌐 Here are some of the websites I've developed:
