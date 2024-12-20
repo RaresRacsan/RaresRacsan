@@ -26,6 +26,6 @@ Feel free to check out my repositories for more details on my work!
 
 
 ---
-<!--
+
 [![](https://visitcount.itsvg.in/api?id=RaresRacsan&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
