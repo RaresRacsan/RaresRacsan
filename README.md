@@ -16,6 +16,7 @@
 
 - [My Portfolio](https://raresracsan.github.io/)
 - [RapidType](https://rapidtype.github.io/)
+- [Cs2-Stats](https://cs2-stats.onrender.com/)
 
 ---
 
